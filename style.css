@@ -92,6 +92,7 @@ select option {
 }
 
 .reverse {
+    font-size: 25px;
     margin-top: 32px;
     cursor: pointer;
     transform: rotate(90deg);
